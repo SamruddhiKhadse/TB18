@@ -16,5 +16,9 @@ public class Demo
 		System.out.println("Git12");
 		
 	}
+	public void m3()
+	{
+	}
+
 
 }
