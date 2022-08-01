@@ -24,6 +24,7 @@ public class Demo
 	}
 	public void m3()
 	{
+		system.out.println("hi how ar you?");
 	}
 
 
