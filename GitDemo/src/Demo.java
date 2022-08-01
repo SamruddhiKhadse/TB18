@@ -9,7 +9,7 @@ public class Demo
 	{
 		System.out.println("TB16");
 	}
-	public void m2()
+	public void m3()
 	{
 		System.out.println("TB16");
 	}
