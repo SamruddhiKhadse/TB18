@@ -11,7 +11,11 @@ public class Demo
 	}
 	public void m3()
 	{
-		System.out.println("TB16");
+		System.out.println("TB18");
+	}
+	public void m4()
+	{
+		System.out.println("TB19");
 	}
 	
 
@@ -22,9 +26,7 @@ public class Demo
 		System.out.println("subya");
 		
 	}
-	public void m3()
-	{
-	}
+	
 
 
 }
