@@ -19,6 +19,7 @@ public class Demo
 	{
 		System.out.println("Vaishu");
 		System.out.println("Git12");
+		System.out.println("subya");
 		
 	}
 	public void m3()
